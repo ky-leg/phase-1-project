@@ -10,6 +10,11 @@ If you have probelms, questions, ideas or suggestions, please do not hesitate to
 
     kyle.goodwin93@gmail.com
 
+WALKTHRU
+You can find a walkthru video for the web app here:
+
+https://youtu.be/NzbrBi4USJI
+
 GIT 
 To download the very lateset source off the GIT server, do this:
 
