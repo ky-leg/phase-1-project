@@ -88,7 +88,7 @@ function turnOnCard(e){
     e.target.style.display = 'none'
     const id = `${e.target.id}-card`    
     const card = document.getElementById(`${id}`)
-    card.style.display = 'block'
+    card.style.display = ''
 }
 
 function turnOffCard(e){
@@ -100,34 +100,3 @@ function turnOffCard(e){
     btn.style.display = 'block'
 }
 
-// function addCard(e){
-//     //delete btn now that it's been clicked
-//     //TODO delete target btn
-
-//     //add card for clicked btn
-//     const targetAsset = asset[e.target.id]
-
-//     //grab card deck 
-//     const assetContainer = document.getElementById('asset-container')
-
-//     //create divCard
-//     const divCard = document.createElement('div')
-//     divCard.className = 'card'
-//     divCard.style.display = "none"
-
-//     //create elements for card, add information to elements
-//     const h1 = document.createElement('h1');
-//     h1.append(targetAsset.name)
-//     const img = document.createElement('img');
-//     img.src = `${targetAsset.image}`
-//     img.className = 'currency-avatar'
-//     const h2 = document.createElement('h2');
-//     h2.append(`$${targetAsset.current_price}`)
-//     const btn = document.createElement('button');
-//     btn.innerText = 'DELETE'
-//     btn.addEventListener('click', e => {/*TODO DELETE CARD AND ADD BACK BTN*/})
-
-//     //append elemetns to card
-//     divCard.append(h1, img, h2, btn)
-//     assetContainer.appendChild(divCard)
-// }
