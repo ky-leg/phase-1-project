@@ -8,7 +8,7 @@ once the cards have been displayd, the card also has a delete button which remov
 CONTACT 
 If you have probelms, questions, ideas or suggestions, please do not hesitate to reach out to me via email:
 
-kyle.goodwin93@gmail.com
+    kyle.goodwin93@gmail.com
 
 GIT 
 To download the very lateset source off the GIT server, do this:
