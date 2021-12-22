@@ -15,6 +15,11 @@ You can find a walkthru video for the web app here:
 
 https://youtu.be/NzbrBi4USJI
 
+MORE INFO 
+For more information, you can reference the below Medium post:
+
+https://medium.com/@kyle.goodwin93/asset-display-er-cryptos-hottest-new-web-app-8395c82b845f
+
 GIT 
 To download the very lateset source off the GIT server, do this:
 
